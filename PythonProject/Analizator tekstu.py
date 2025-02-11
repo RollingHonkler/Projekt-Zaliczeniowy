@@ -1,4 +1,4 @@
-# Projekt Python mk. 2
+# Projekt Python mk. 3
 import json   # pozwala na prace z rozszerzeniami .json, używanymi do odczytywania i zapisywania wyników analizy
 from pathlib import Path #pozwala na sprawdzenie czy dany plik w ogole istnieje i na zarządzanie ścieżkami do plików
 class Alpha: #zdefiniowanie klasy, odpowiedzialnej za całą analizę tekstu
